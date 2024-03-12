@@ -1,2 +1,2 @@
 # Exam_Repository
-Déploiement d'une simple application PHP qui affiche les informations de configuration PHP du serveur. 
+Déploiement d'une application Python basique qui affiche la version de Python installée sur le serveur. 
